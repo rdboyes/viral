@@ -1,0 +1,13 @@
+name: viral
+title: viral
+username:
+account: randyboyes
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7719452
+bundleId: 8054101
+url: https://randyboyes.shinyapps.io/viral/
+when: 1702664486.88176
+lastSyncTime: 1702664486.88177
+asMultiple: FALSE
+asStatic: FALSE
